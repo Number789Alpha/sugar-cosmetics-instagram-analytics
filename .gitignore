@@ -10,8 +10,8 @@ env/
 venv/
 ENV/
 
-# Streamlit runtime & cache
-.streamlit/
+# Streamlit secrets (keep config.toml tracked)
+.streamlit/secrets.toml
 
 # OS artifacts
 .DS_Store
