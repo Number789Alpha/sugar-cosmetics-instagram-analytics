@@ -1,0 +1,47 @@
+SUGAR COSMETICS INSTAGRAM DATASET PREPROCESSING AUDIT
+======================================================
+Raw records: 50,000
+Clean records: 50,000
+Date Range: 2024-04-19 to 2025-04-19
+Total Days Covered: 365 days
+
+KEY PERFORMANCE TOTALS & AVERAGES:
+----------------------------------
+Total Posts Published: 50,000
+Total Impressions: 1,276,045,750
+Total Reach: 987,423,288
+Total Likes: 147,728,279
+Total Comments: 18,459,361
+Total Shares: 8,115,338
+Total Saves: 8,861,439
+Total Profile Visits: 29,634,798
+Total Follows Gained: 8,866,710
+
+AVERAGE METRICS PER POST:
+------------------------
+Average Reach: 19,748.5
+Average Likes: 2,954.6
+Average Comments: 369.2
+Average Shares: 162.3
+Average Saves: 177.2
+Average Engagement Rate (by Reach): 18.54%
+Average Follow Conversion Rate: 29.78%
+
+POST TYPES BREAKDOWN:
+--------------------
+Post Type
+Reel     12599
+Story    12517
+Video    12485
+Image    12399
+
+CAMPAIGN TYPES BREAKDOWN:
+------------------------
+Campaign Type
+Tutorial             10186
+Giveaway              9998
+Festive Offer         9990
+Product Launch        9923
+Influencer Collab     9903
+======================================================
+Status: Ready for Streamlit Dashboard consumption.
